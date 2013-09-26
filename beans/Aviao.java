@@ -1,6 +1,6 @@
 package br.com.veiculo.beans;
 
-public class Aviao extends VeiculoMaritimo{
+public class Aviao extends VeiculoAereo{
 
 	public Aviao(String tipo) {
 		super(tipo);
